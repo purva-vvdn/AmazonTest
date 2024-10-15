@@ -1,4 +1,4 @@
-${BROWSER}       chrome
-${URL}           https://www.amazon.com/
-${EMAIL}         your_email@example.com
-${PASSWORD}      your_password
+BROWSER:       chrome
+URL:           https://www.amazon.com/
+EMAIL:         your_email@example.com
+PASSWORD:      your_password
